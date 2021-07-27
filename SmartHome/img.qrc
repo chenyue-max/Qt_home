@@ -1,0 +1,118 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/1.png</file>
+        <file>img/2.jpg</file>
+        <file>img/3.png</file>
+        <file>img/4.png</file>
+        <file>img/5.png</file>
+        <file>img/6.png</file>
+        <file>img/9.jpg</file>
+        <file>img/KHCFDC_管理.png</file>
+        <file>img/timg07(1).jpg</file>
+        <file>img/timg07.gif</file>
+        <file>img/登录 (2).png</file>
+        <file>img/放大镜.png</file>
+        <file>img/监控.png</file>
+        <file>img/箭头.png</file>
+        <file>img/晴-天气 (1).png</file>
+        <file>img/设置 (1).png</file>
+        <file>img/设置 设定 配置 扳手.png</file>
+        <file>img/设置.png</file>
+        <file>img/数据展示.png</file>
+        <file>img/天气 (1).png</file>
+        <file>img/天气 (2).png</file>
+        <file>img/天气.png</file>
+        <file>img/主页.png</file>
+        <file>img/智能家居.png</file>
+        <file>img/选择.png</file>
+        <file>img/7.jpg</file>
+        <file>img/pm2.5.png</file>
+        <file>img/报警灯.png</file>
+        <file>img/报警器.png</file>
+        <file>img/操作-客厅 (1).png</file>
+        <file>img/操作-客厅 (2).png</file>
+        <file>img/操作-客厅.png</file>
+        <file>img/厨房 (1).png</file>
+        <file>img/厨房 (2).png</file>
+        <file>img/厨房 (3).png</file>
+        <file>img/厨房 (4).png</file>
+        <file>img/厨房.png</file>
+        <file>img/厨房1(1).png</file>
+        <file>img/厨房1.png</file>
+        <file>img/厨房2.png</file>
+        <file>img/厨房6.jpg</file>
+        <file>img/窗帘 (1).png</file>
+        <file>img/窗帘.png</file>
+        <file>img/灯1.png</file>
+        <file>img/灯2.png</file>
+        <file>img/灯3.png</file>
+        <file>img/灯4.png</file>
+        <file>img/灯泡开关.png</file>
+        <file>img/二氧化碳.png</file>
+        <file>img/返 回.png</file>
+        <file>img/风扇 (1).png</file>
+        <file>img/风扇.png</file>
+        <file>img/关闭1.png</file>
+        <file>img/关闭2.png</file>
+        <file>img/火.png</file>
+        <file>img/甲烷.png</file>
+        <file>img/开关 关 (2).png</file>
+        <file>img/开关 关 (3).png</file>
+        <file>img/开关 关.png</file>
+        <file>img/开关1.png</file>
+        <file>img/开关2.png</file>
+        <file>img/客厅 (1).png</file>
+        <file>img/客厅.png</file>
+        <file>img/客厅1.png</file>
+        <file>img/客厅2.png</file>
+        <file>img/客厅3.png</file>
+        <file>img/客厅5.png</file>
+        <file>img/门锁 (1).png</file>
+        <file>img/门锁.png</file>
+        <file>img/人体红外开.png</file>
+        <file>img/湿度.png</file>
+        <file>img/数据 展示.png</file>
+        <file>img/温度.png</file>
+        <file>img/卧室 (1).png</file>
+        <file>img/卧室 (2).png</file>
+        <file>img/卧室.png</file>
+        <file>img/卧室1.png</file>
+        <file>img/卧室2.png</file>
+        <file>img/卧室icon新.png</file>
+        <file>img/烟雾传感器.png</file>
+        <file>img/浴室.png</file>
+        <file>img/浴室1.png</file>
+        <file>img/浴室2.png</file>
+        <file>img/浴室清洁 (1).png</file>
+        <file>img/浴室清洁.png</file>
+        <file>img/紫外线 (1).png</file>
+        <file>img/紫外线 (2).png</file>
+        <file>img/总开关_大 (1).png</file>
+        <file>img/总开关_大.png</file>
+        <file>img/数据可视化.png</file>
+        <file>img/待更新.png</file>
+        <file>img/LED (1).png</file>
+        <file>img/LED.png</file>
+        <file>img/按钮#开关.png</file>
+        <file>img/返回箭头.png</file>
+        <file>img/回家模式 (1).png</file>
+        <file>img/回家模式.png</file>
+        <file>img/控制.png</file>
+        <file>img/控制-开关.png</file>
+        <file>img/离家模式 (1).png</file>
+        <file>img/离家模式.png</file>
+        <file>img/设 置.png</file>
+        <file>img/数据分析 (1).png</file>
+        <file>img/数据分析.png</file>
+        <file>img/数据展示 (1).png</file>
+        <file>img/数据展示 (2).png</file>
+        <file>img/数据展示 (3).png</file>
+        <file>img/数据展示 (5).png</file>
+        <file>img/睡眠模式 (1).png</file>
+        <file>img/睡眠模式 (2).png</file>
+        <file>img/睡眠模式.png</file>
+        <file>img/天气预报.png</file>
+        <file>img/模式切换 - 副本.png</file>
+        <file>img/模式切换.png</file>
+    </qresource>
+</RCC>

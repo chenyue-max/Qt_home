@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>menu</class>
+ <widget class="QWidget" name="menu">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QPushButton{
+
+border-radius:15px;
+
+}
+</string>
+  </property>
+  <widget class="QPushButton" name="weatherBtn">
+   <property name="geometry">
+    <rect>
+     <x>59</x>
+     <y>60</y>
+     <width>161</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{color: rgb(255, 0, 0);
+	image: url(:/img/天气预报.png);
+background-color: rgba(98, 127, 255,255);
+borde: none;}
+QPushButton::hoverQPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+
+
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>229</x>
+     <y>200</y>
+     <width>161</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{color: rgb(255, 0, 0);
+	
+	image: url(:/img/模式切换.png);
+background-color: rgba(98, 127, 255,255);
+borde: none;}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>399</x>
+     <y>200</y>
+     <width>161</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {image:url(:/img/设 置.png);  color: rgba(255, 0,0, 250);background-color: rgba(98, 127, 255,255);border:none; }”。“QPushButton { color: rgba(255, 0,0, 250);background-color: rgba(98, 127, 255,255);border:3px solid black;}”
+
+
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>229</x>
+     <y>60</y>
+     <width>161</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>141</width>
+     <height>121</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{color: rgb(255, 0, 0);
+	
+	image: url(:/img/数据展示 (5).png);
+background-color: rgba(98, 127, 255,255);
+borde: none;}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+
+
+
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_5">
+   <property name="geometry">
+    <rect>
+     <x>59</x>
+     <y>200</y>
+     <width>161</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="sizeIncrement">
+    <size>
+     <width>141</width>
+     <height>121</height>
+    </size>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{color: rgb(255, 0, 0);
+	
+	image: url(:/img/数据展示 (1).png);
+background-color: rgba(98, 127, 255,255);
+borde: none;}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_6">
+   <property name="geometry">
+    <rect>
+     <x>399</x>
+     <y>60</y>
+     <width>161</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {image: url(:/img/控制.png);color: rgba(255, 0,0, 250);background-color: rgba(98, 127, 255,255);border:none; }”。“QPushButton { color: rgba(255, 0,0, 250);background-color: rgba(0,170,255,100);border:3px solid black;}”
+
+
+
+
+
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+QPushButton::hover
+{
+background-color:#93b4ff;
+}
+QPushButton::pressed
+{
+background-color:#93b4ff;
+}
+</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>10</y>
+     <width>441</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>微软雅黑</family>
+     <pointsize>24</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255)</string>
+   </property>
+   <property name="text">
+    <string>       智 能 家 居 控 制 面 板</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>750</x>
+     <y>260</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255)
+</string>
+   </property>
+   <property name="text">
+    <string>设置</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>150</x>
+     <y>510</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255)
+</string>
+   </property>
+   <property name="text">
+    <string>天气预报</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>510</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255)
+</string>
+   </property>
+   <property name="text">
+    <string>数据监控</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>750</x>
+     <y>510</y>
+     <width>121</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255)
+</string>
+   </property>
+   <property name="text">
+    <string>天气预报</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_12">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>150</y>
+     <width>101</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 255, 255);
+font: 9pt &quot;微软雅黑&quot;;
+</string>
+   </property>
+   <property name="text">
+    <string>                天气预报  </string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_9">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>150</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 255, 255);
+font: 9pt &quot;微软雅黑&quot;;</string>
+   </property>
+   <property name="text">
+    <string>            数据展示   </string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_13">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>150</y>
+     <width>91</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 255, 255);
+font: 9pt &quot;微软雅黑&quot;;</string>
+   </property>
+   <property name="text">
+    <string>                开关控制</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_10">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>290</y>
+     <width>91</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 255, 255);
+font: 9pt &quot;微软雅黑&quot;;</string>
+   </property>
+   <property name="text">
+    <string>            数据分析</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_11">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>290</y>
+     <width>91</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 255, 255);
+font: 9pt &quot;微软雅黑&quot;;</string>
+   </property>
+   <property name="text">
+    <string>               设置  </string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_14">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>290</y>
+     <width>91</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 255, 255);
+font: 9pt &quot;微软雅黑&quot;;</string>
+   </property>
+   <property name="text">
+    <string>           模式切换</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

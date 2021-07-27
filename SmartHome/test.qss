@@ -1,0 +1,18 @@
+QTabBar::tab{
+    color: white;
+    background: #000080;
+    border: 1px solid #73b7ff;
+    width: 100ex;
+    height: 6ex;
+}
+QTabBar::tab:selected{
+    background: #7FFFAA;
+    margin-top: 2ex;
+}
+QTabBar::close-button{
+    border-image: url(:/img/关闭.png);
+}
+QTabBar::close-button:hover
+{
+    background: red;
+
