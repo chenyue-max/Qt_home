@@ -1,0 +1,9 @@
+.\objects\relay.o: ..\hardware\Relay\Relay.c
+.\objects\relay.o: ..\hardware\Relay\Relay.h
+.\objects\relay.o: ..\system\jpstm32_gpio.h
+.\objects\relay.o: ..\system\jpstm32_common.h
+.\objects\relay.o: ..\system\stm32f10x_map.h
+.\objects\relay.o: ..\system\stm32f10x_conf.h
+.\objects\relay.o: ..\system\stm32f10x_type.h
+.\objects\relay.o: ..\system\cortexm3_macro.h
+.\objects\relay.o: ..\system\stm32f10x_nvic.h

@@ -1,0 +1,9 @@
+.\objects\sht20.o: ..\hardware\SHT20\SHT20.c
+.\objects\sht20.o: ..\hardware\SHT20\SHT20.h
+.\objects\sht20.o: ..\hardware\myiic\myiic.h
+.\objects\sht20.o: ..\devices\sys.h
+.\objects\sht20.o: ..\system\stm32f10x_map.h
+.\objects\sht20.o: ..\system\stm32f10x_conf.h
+.\objects\sht20.o: ..\system\stm32f10x_type.h
+.\objects\sht20.o: ..\system\cortexm3_macro.h
+.\objects\sht20.o: ..\system\stm32f10x_nvic.h

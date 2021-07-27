@@ -1,0 +1,9 @@
+.\objects\tim.o: ..\devices\Tim.c
+.\objects\tim.o: ..\devices\Tim.h
+.\objects\tim.o: ..\system\stm32f10x_map.h
+.\objects\tim.o: ..\system\stm32f10x_conf.h
+.\objects\tim.o: ..\system\stm32f10x_type.h
+.\objects\tim.o: ..\system\cortexm3_macro.h
+.\objects\tim.o: ..\system\jpstm32_gpio.h
+.\objects\tim.o: ..\system\jpstm32_common.h
+.\objects\tim.o: ..\system\stm32f10x_nvic.h

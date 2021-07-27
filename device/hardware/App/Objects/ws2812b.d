@@ -1,0 +1,11 @@
+.\objects\ws2812b.o: ..\hardware\WS2812B\WS2812B.c
+.\objects\ws2812b.o: ..\hardware\WS2812B\WS2812B.h
+.\objects\ws2812b.o: ..\system\stm32f10x_map.h
+.\objects\ws2812b.o: ..\system\stm32f10x_conf.h
+.\objects\ws2812b.o: ..\system\stm32f10x_type.h
+.\objects\ws2812b.o: ..\system\cortexm3_macro.h
+.\objects\ws2812b.o: ..\system\jpstm32_gpio.h
+.\objects\ws2812b.o: ..\system\jpstm32_common.h
+.\objects\ws2812b.o: ..\system\stm32f10x_nvic.h
+.\objects\ws2812b.o: ..\system\jpstm32_sysclk.h
+.\objects\ws2812b.o: ..\devices\sys.h

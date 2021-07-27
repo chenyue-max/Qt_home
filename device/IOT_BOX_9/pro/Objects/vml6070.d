@@ -1,0 +1,9 @@
+.\objects\vml6070.o: ..\hardware\VML6070\vml6070.c
+.\objects\vml6070.o: ..\hardware\VML6070\vml6070.h
+.\objects\vml6070.o: ..\system\stm32f10x_map.h
+.\objects\vml6070.o: ..\system\stm32f10x_conf.h
+.\objects\vml6070.o: ..\system\stm32f10x_type.h
+.\objects\vml6070.o: ..\system\cortexm3_macro.h
+.\objects\vml6070.o: ..\hardware\myiic\myiic.h
+.\objects\vml6070.o: ..\devices\sys.h
+.\objects\vml6070.o: ..\system\stm32f10x_nvic.h

@@ -1,0 +1,10 @@
+.\objects\security5.o: ..\hardware\SECURITY\security5.c
+.\objects\security5.o: ..\hardware\SECURITY\security5.h
+.\objects\security5.o: ..\devices\sys.h
+.\objects\security5.o: ..\system\stm32f10x_map.h
+.\objects\security5.o: ..\system\stm32f10x_conf.h
+.\objects\security5.o: ..\system\stm32f10x_type.h
+.\objects\security5.o: ..\system\cortexm3_macro.h
+.\objects\security5.o: ..\system\stm32f10x_nvic.h
+.\objects\security5.o: ..\system\jpstm32_gpio.h
+.\objects\security5.o: ..\system\jpstm32_common.h

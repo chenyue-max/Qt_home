@@ -1,0 +1,271 @@
+Dependencies for Project 'home', Target 'home': (DO NOT MODIFY !)
+F (.\main.c)(0x60FA6CA8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (function.h)(0x60FB696D)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\hardware\zigbee_usart\ZigBee_usart.h)(0x5A6ED68B)
+I (..\devices\Tim1.h)(0x60F68BEE)
+F (.\function.c)(0x60FA666D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\function.o --omf_browse .\objects\function.crf --depend .\objects\function.d)
+I (function.h)(0x60FB696D)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\hardware\zigbee_usart\ZigBee_usart.h)(0x5A6ED68B)
+I (..\hardware\PM2.5\PM2.5.h)(0x5C7DD73D)
+I (..\hardware\myiic\myiic.h)(0x5925716A)
+I (..\hardware\SHT20\sht20.h)(0x59409AA2)
+F (.\heart.c)(0x60FA6AD8)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\heart.o --omf_browse .\objects\heart.crf --depend .\objects\heart.d)
+I (heart.h)(0x60FA4613)
+I (function.h)(0x60FB696D)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\hardware\zigbee_usart\ZigBee_usart.h)(0x5A6ED68B)
+F (..\hardware\zigbee_usart\ZigBee_usart.c)(0x5C8A2082)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\zigbee_usart.o --omf_browse .\objects\zigbee_usart.crf --depend .\objects\zigbee_usart.d)
+I (..\hardware\zigbee_usart\ZigBee_usart.h)(0x5A6ED68B)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+F (..\hardware\WS2812B\WS2812B.c)(0x60F77C4E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\ws2812b.o --omf_browse .\objects\ws2812b.crf --depend .\objects\ws2812b.d)
+I (..\hardware\WS2812B\WS2812B.h)(0x5C7DD73D)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\devices\sys.h)(0x5AEFFC0C)
+F (..\hardware\TP4115\TP4115.c)(0x5954A7C6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\tp4115.o --omf_browse .\objects\tp4115.crf --depend .\objects\tp4115.d)
+I (..\hardware\TP4115\TP4115.h)(0x59255FA6)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\devices\Tim.h)(0x5AEFFC0C)
+F (..\hardware\BH1750\BH1750.c)(0x5C7DD73C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\bh1750.o --omf_browse .\objects\bh1750.crf --depend .\objects\bh1750.d)
+I (..\hardware\myiic\myiic.h)(0x5925716A)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\hardware\BH1750\BH1750.h)(0x59409A86)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+F (..\hardware\SHT20\SHT20.c)(0x5C7CC4E5)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\sht20.o --omf_browse .\objects\sht20.crf --depend .\objects\sht20.d)
+I (..\hardware\SHT20\SHT20.h)(0x59409AA2)
+I (..\hardware\myiic\myiic.h)(0x5925716A)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\hardware\CO2\CO2.c)(0x595C3B7C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\co2.o --omf_browse .\objects\co2.crf --depend .\objects\co2.d)
+I (..\hardware\CO2\CO2.h)(0x5C7DD73D)
+I (..\hardware\USART3\usart3.h)(0x593FBCB4)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+F (..\hardware\USART3\usart3.c)(0x5C8AF93A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\usart3.o --omf_browse .\objects\usart3.crf --depend .\objects\usart3.d)
+I (..\hardware\USART3\usart3.h)(0x593FBCB4)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\devices\sys.h)(0x5AEFFC0C)
+F (..\hardware\VEML6070\veml6070.c)(0x59262F04)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\veml6070.o --omf_browse .\objects\veml6070.crf --depend .\objects\veml6070.d)
+I (..\hardware\myiic\myiic.h)(0x5925716A)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\hardware\VEML6070\veml6070.h)(0x5923DC52)
+F (..\hardware\myiic\myiic.c)(0x5940E454)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\myiic.o --omf_browse .\objects\myiic.crf --depend .\objects\myiic.d)
+I (..\hardware\myiic\myiic.h)(0x5925716A)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+F (..\hardware\PM2.5\PM2.5.c)(0x5C7DD73D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\pm2.5.o --omf_browse .\objects\pm2.5.crf --depend .\objects\pm2.5.d)
+I (..\hardware\PM2.5\PM2.5.h)(0x5C7DD73D)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\hardware\USART3\usart3.h)(0x593FBCB4)
+F (..\hardware\security\security_windows.c)(0x5949E6F4)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\security_windows.o --omf_browse .\objects\security_windows.crf --depend .\objects\security_windows.d)
+I (..\hardware\security\security_windows.h)(0x5C7DD743)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+F (..\hardware\security\security.c)(0x5C7E213B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\security.o --omf_browse .\objects\security.crf --depend .\objects\security.d)
+I (..\hardware\security\security.h)(0x5C7DD73D)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+F (..\hardware\A4988\A4988.c)(0x593FB4F6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\a4988.o --omf_browse .\objects\a4988.crf --depend .\objects\a4988.d)
+I (..\hardware\A4988\A4988.h)(0x5C7DD73D)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+F (..\hardware\Fan\fan.c)(0x5C7DD73D)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\fan.o --omf_browse .\objects\fan.crf --depend .\objects\fan.d)
+I (..\hardware\Fan\fan.h)(0x5C7DD73D)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\hardware\Lock\lock.c)(0x5C7C840E)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\lock.o --omf_browse .\objects\lock.crf --depend .\objects\lock.d)
+I (..\hardware\Lock\lock.h)(0x5C7DDB61)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+F (..\hardware\Relay\Relay.c)(0x5C7E213B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\relay.o --omf_browse .\objects\relay.crf --depend .\objects\relay.d)
+I (..\hardware\Relay\Relay.h)(0x5C7E213B)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\system\core_cm3.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (E:\program\k5\ARM\ARMCC\include\stdint.h)(0x54C245B8)
+F (..\system\jpstm32_exti.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\jpstm32_exti.o --omf_browse .\objects\jpstm32_exti.crf --depend .\objects\jpstm32_exti.d)
+I (..\system\jpstm32_exti.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+F (..\system\jpstm32_gpio.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\jpstm32_gpio.o --omf_browse .\objects\jpstm32_gpio.crf --depend .\objects\jpstm32_gpio.d)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\system\jpstm32_nvic.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\jpstm32_nvic.o --omf_browse .\objects\jpstm32_nvic.crf --depend .\objects\jpstm32_nvic.d)
+I (..\system\jpstm32_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\system\jpstm32_sysclk.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\jpstm32_sysclk.o --omf_browse .\objects\jpstm32_sysclk.crf --depend .\objects\jpstm32_sysclk.d)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_nvic.h)(0x5AEFFC0C)
+F (..\devices\delay.c)(0x60F683F3)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\devices\delay.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+F (..\devices\sys.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\devices\Tim.c)(0x5AEFFC0C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\tim.o --omf_browse .\objects\tim.crf --depend .\objects\tim.d)
+I (..\devices\Tim.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+F (..\devices\Tim1.c)(0x60FA6CA9)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I..\devices -I..\boot -I..\system -I..\App -I..\hardware\zigbee_usart -I..\hardware\WS2812B -I..\hardware\TP4115 -I..\hardware\CO2 -I..\hardware\BH1750 -I..\hardware\USART3 -I..\hardware\SHT20 -I..\hardware\VEML6070 -I..\hardware\myiic -I..\hardware\security -I..\hardware\PM2.5 -I..\hardware\A4988 -I..\hardware\Fan -I..\hardware\Lock -I..\hardware\Relay-I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include-D__UVISION_VERSION="515" -DSTM32F10X_MD-o .\objects\tim1.o --omf_browse .\objects\tim1.crf --depend .\objects\tim1.d)
+I (..\devices\Tim1.h)(0x60F68BEE)
+I (..\devices\sys.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_map.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_conf.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_type.h)(0x5AEFFC0C)
+I (..\system\cortexm3_macro.h)(0x5AEFFC0C)
+I (..\system\stm32f10x_nvic.h)(0x5AEFFC0C)
+I (..\system\jpstm32_gpio.h)(0x5AEFFC0C)
+I (..\system\jpstm32_common.h)(0x5AEFFC0C)
+I (..\system\jpstm32_sysclk.h)(0x5AEFFC0C)
+I (..\App\heart.h)(0x60FA4613)
+I (..\App\function.h)(0x60FB696D)
+I (..\hardware\zigbee_usart\ZigBee_usart.h)(0x5A6ED68B)
+F (..\boot\startup_stm32f10x_md.s)(0x5AEFFC0C)(--cpu Cortex-M3 -g --apcs=interwork -I D:\FileSchool\2021practical_training\hardware\App\RTE-I E:\program\k5\ARM\PACK\Keil\STM32F1xx_DFP\2.0.0\Device\Include-I E:\program\k5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 515" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)

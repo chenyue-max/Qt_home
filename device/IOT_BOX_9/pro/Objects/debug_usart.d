@@ -1,0 +1,10 @@
+.\objects\debug_usart.o: ..\hardware\debug-usart\Debug_usart.c
+.\objects\debug_usart.o: ..\hardware\debug-usart\Debug_usart.h
+.\objects\debug_usart.o: ..\system\stm32f10x_map.h
+.\objects\debug_usart.o: ..\system\stm32f10x_conf.h
+.\objects\debug_usart.o: ..\system\stm32f10x_type.h
+.\objects\debug_usart.o: ..\system\cortexm3_macro.h
+.\objects\debug_usart.o: ..\system\jpstm32_sysclk.h
+.\objects\debug_usart.o: ..\system\jpstm32_common.h
+.\objects\debug_usart.o: ..\system\stm32f10x_nvic.h
+.\objects\debug_usart.o: ..\devices\sys.h

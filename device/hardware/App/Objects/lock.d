@@ -1,0 +1,11 @@
+.\objects\lock.o: ..\hardware\Lock\lock.c
+.\objects\lock.o: ..\hardware\Lock\lock.h
+.\objects\lock.o: ..\devices\sys.h
+.\objects\lock.o: ..\system\stm32f10x_map.h
+.\objects\lock.o: ..\system\stm32f10x_conf.h
+.\objects\lock.o: ..\system\stm32f10x_type.h
+.\objects\lock.o: ..\system\cortexm3_macro.h
+.\objects\lock.o: ..\system\stm32f10x_nvic.h
+.\objects\lock.o: ..\system\jpstm32_gpio.h
+.\objects\lock.o: ..\system\jpstm32_common.h
+.\objects\lock.o: ..\system\jpstm32_sysclk.h

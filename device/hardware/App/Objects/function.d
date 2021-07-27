@@ -1,0 +1,15 @@
+.\objects\function.o: function.c
+.\objects\function.o: function.h
+.\objects\function.o: ..\devices\sys.h
+.\objects\function.o: ..\system\stm32f10x_map.h
+.\objects\function.o: ..\system\stm32f10x_conf.h
+.\objects\function.o: ..\system\stm32f10x_type.h
+.\objects\function.o: ..\system\cortexm3_macro.h
+.\objects\function.o: ..\system\stm32f10x_nvic.h
+.\objects\function.o: ..\system\jpstm32_sysclk.h
+.\objects\function.o: ..\system\jpstm32_common.h
+.\objects\function.o: ..\system\jpstm32_gpio.h
+.\objects\function.o: ..\hardware\zigbee_usart\ZigBee_usart.h
+.\objects\function.o: ..\hardware\PM2.5\PM2.5.h
+.\objects\function.o: ..\hardware\myiic\myiic.h
+.\objects\function.o: ..\hardware\SHT20\sht20.h

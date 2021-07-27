@@ -1,0 +1,14 @@
+.\objects\tim1.o: ..\devices\Tim1.c
+.\objects\tim1.o: ..\devices\Tim1.h
+.\objects\tim1.o: ..\devices\sys.h
+.\objects\tim1.o: ..\system\stm32f10x_map.h
+.\objects\tim1.o: ..\system\stm32f10x_conf.h
+.\objects\tim1.o: ..\system\stm32f10x_type.h
+.\objects\tim1.o: ..\system\cortexm3_macro.h
+.\objects\tim1.o: ..\system\stm32f10x_nvic.h
+.\objects\tim1.o: ..\system\jpstm32_gpio.h
+.\objects\tim1.o: ..\system\jpstm32_common.h
+.\objects\tim1.o: ..\system\jpstm32_sysclk.h
+.\objects\tim1.o: ..\App\heart.h
+.\objects\tim1.o: ..\App\function.h
+.\objects\tim1.o: ..\hardware\zigbee_usart\ZigBee_usart.h

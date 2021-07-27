@@ -1,0 +1,10 @@
+.\objects\usart3.o: ..\hardware\USART3\usart3.c
+.\objects\usart3.o: ..\hardware\USART3\usart3.h
+.\objects\usart3.o: ..\system\stm32f10x_map.h
+.\objects\usart3.o: ..\system\stm32f10x_conf.h
+.\objects\usart3.o: ..\system\stm32f10x_type.h
+.\objects\usart3.o: ..\system\cortexm3_macro.h
+.\objects\usart3.o: ..\system\jpstm32_sysclk.h
+.\objects\usart3.o: ..\system\jpstm32_common.h
+.\objects\usart3.o: ..\system\stm32f10x_nvic.h
+.\objects\usart3.o: ..\devices\sys.h

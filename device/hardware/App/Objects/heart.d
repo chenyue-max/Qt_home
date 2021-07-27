@@ -1,0 +1,13 @@
+.\objects\heart.o: heart.c
+.\objects\heart.o: heart.h
+.\objects\heart.o: function.h
+.\objects\heart.o: ..\devices\sys.h
+.\objects\heart.o: ..\system\stm32f10x_map.h
+.\objects\heart.o: ..\system\stm32f10x_conf.h
+.\objects\heart.o: ..\system\stm32f10x_type.h
+.\objects\heart.o: ..\system\cortexm3_macro.h
+.\objects\heart.o: ..\system\stm32f10x_nvic.h
+.\objects\heart.o: ..\system\jpstm32_sysclk.h
+.\objects\heart.o: ..\system\jpstm32_common.h
+.\objects\heart.o: ..\system\jpstm32_gpio.h
+.\objects\heart.o: ..\hardware\zigbee_usart\ZigBee_usart.h

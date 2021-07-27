@@ -1,0 +1,9 @@
+.\objects\fan.o: ..\hardware\Fan\fan.c
+.\objects\fan.o: ..\hardware\Fan\fan.h
+.\objects\fan.o: ..\system\jpstm32_gpio.h
+.\objects\fan.o: ..\system\jpstm32_common.h
+.\objects\fan.o: ..\system\stm32f10x_map.h
+.\objects\fan.o: ..\system\stm32f10x_conf.h
+.\objects\fan.o: ..\system\stm32f10x_type.h
+.\objects\fan.o: ..\system\cortexm3_macro.h
+.\objects\fan.o: ..\system\stm32f10x_nvic.h

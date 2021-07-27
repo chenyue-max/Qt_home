@@ -1,0 +1,11 @@
+.\objects\bh1750.o: ..\hardware\BH1750\bh1750.c
+.\objects\bh1750.o: ..\hardware\BH1750\bh1750.h
+.\objects\bh1750.o: ..\system\stm32f10x_map.h
+.\objects\bh1750.o: ..\system\stm32f10x_conf.h
+.\objects\bh1750.o: ..\system\stm32f10x_type.h
+.\objects\bh1750.o: ..\system\cortexm3_macro.h
+.\objects\bh1750.o: ..\hardware\myiic\myiic.h
+.\objects\bh1750.o: ..\devices\sys.h
+.\objects\bh1750.o: ..\system\stm32f10x_nvic.h
+.\objects\bh1750.o: ..\system\jpstm32_sysclk.h
+.\objects\bh1750.o: ..\system\jpstm32_common.h
